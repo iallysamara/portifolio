@@ -23,7 +23,7 @@ li{
     margin-right: 20px;
 }
 
-.lista_cabecalho li>a{ /*Especifica o local e as subtags*/
+.lista_cabecalho li > a{ /*Especifica o local e as subtags*/
     color: #FFFFFF;
     font-size: 18px;
     text-decoration: None; /*Nenhum link vai recerber decoração*/
